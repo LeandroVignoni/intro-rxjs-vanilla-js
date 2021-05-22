@@ -5,7 +5,7 @@
   "author": "LVignoni <leandrovignoni@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server --mode development"
+    "start": "webpack serve"
   },
   "dependencies": {
     "rxjs": "^7.1.0",
